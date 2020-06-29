@@ -1,0 +1,51 @@
+member_id,address,gender,age,entered_day,height
+B1,"259-9405 A Avenue, Meridian, 55643, ID",1,63,2020/3/7,188.2
+B2,"P.O. Box 441, 4452 Non Ave, Racine, 47215, WI",0,59,2019/9/27,188.6
+B3,"116-4956 Pede, St., Seattle, 25967, WA",0,55,2019/7/30,201.3
+B4,"Ap #390-321 Nisl Ave, Tallahassee, 75157, FL",0,66,2019/5/17,172.1
+B5,"2567 Ullamcorper. Rd., Racine, 48219, WI",0,69,2020/1/17,169.6
+B6,"Ap #964-973 Enim, Rd., Cincinnati, 47850, OH",0,53,2020/1/4,196.3
+B7,"8162 Placerat Road, Stamford, 20368, CT",1,23,2020/4/16,149
+B8,"8506 Rutrum. St., Springfield, 51793, IL",0,22,2020/2/25,186.2
+B9,"P.O. Box 869, 7212 Mauris St., Covington, 10248, KY",1,53,2020/2/29,167.3
+B10,"Ap #997-6960 A Rd., Georgia, 31036, GA",1,59,2019/10/10,187.5
+B11,"8979 Turpis Road, Toledo, 71638, OH",0,42,2019/7/8,181.2
+B12,"Ap #549-2235 Proin Street, Gary, 65041, IN",0,51,2020/4/1,177.4
+B13,"625-8328 Malesuada Road, Tampa, 98398, FL",0,30,2020/4/25,161.1
+B14,"Ap #899-4864 Ornare, Rd., Tallahassee, 80432, FL",1,54,2019/12/2,201
+B15,"Ap #946-8424 Quam. St., Detroit, 96297, MI",1,52,2019/9/24,191.8
+B16,"Ap #707-2453 Quis, Rd., Clarksville, 14174, TN",1,41,2020/3/16,171
+B17,"Ap #177-300 Luctus. Road, Wichita, 46559, KS",1,34,2019/12/13,188
+B18,"205-9414 Egestas Road, Philadelphia, 92927, PA",0,37,2020/4/3,151.3
+B19,"7518 Venenatis Avenue, Dover, 35435, DE",0,46,2019/10/15,165.9
+B20,"Ap #465-5139 Massa Ave, Jacksonville, 58365, FL",1,74,2019/9/18,201
+B21,"2512 Ipsum Rd., Anchorage, 99648, AK",1,29,2019/5/4,200.7
+B22,"158-6679 Quis St., Jackson, 94626, MS",0,55,2019/9/11,164.6
+B23,"Ap #209-8380 Mi, Avenue, Oklahoma City, 11820, OK",0,35,2019/8/18,197.4
+B24,"9956 Lobortis Rd., Madison, 20046, WI",1,68,2020/2/21,151.1
+B25,"P.O. Box 123, 1409 Magna. Road, Kenosha, 27583, WI",1,38,2019/5/11,174.9
+B26,"3268 Arcu. Av., Las Vegas, 34532, NV",1,69,2020/3/31,161.8
+B27,"897-6514 A Road, Mesa, 86102, AZ",1,38,2020/3/15,201.8
+B28,"Ap #600-6308 Morbi St., Gulfport, 51693, MS",1,23,2019/10/28,159.3
+B29,"758-1336 Vel St., Bloomington, 47821, MN",0,43,2020/2/19,169.8
+B30,"496-4598 Eu St., Montgomery, 35555, AL",1,73,2019/11/21,203.2
+B31,"Ap #959-652 Tempor St., Kailua, 43485, HI",0,56,2019/8/23,178.9
+B32,"Ap #191-3584 In, Av., San Antonio, 42391, TX",1,53,2019/10/16,197
+B33,"861 Sed Avenue, Boston, 45542, MA",0,26,2019/11/2,154
+B34,"P.O. Box 696, 7755 Tincidunt, Street, Dover, 42774, DE",0,75,2020/3/22,189.5
+B35,"8970 Varius Av., Bozeman, 10405, MT",0,50,2020/4/14,188.6
+B36,"193 Cubilia St., San Francisco, 91741, CA",0,72,2020/2/22,168.6
+B37,"P.O. Box 911, 5407 Nec Ave, Butte, 22587, MT",0,27,2020/3/13,192.7
+B38,"410-4539 Lacus. Avenue, Glendale, 85872, AZ",0,60,2019/9/22,197.6
+B39,"P.O. Box 228, 1766 Congue Rd., Baltimore, 99809, MD",0,39,2019/5/4,174.7
+B40,"1028 Pellentesque Avenue, Paradise, 25218, NV",1,21,2020/1/8,183.1
+B41,"465-7846 Mauris St., Columbus, 70417, GA",1,74,2019/5/10,179
+B42,"Ap #414-4754 Amet Avenue, Casper, 45637, WY",0,28,2019/5/24,157
+B43,"9563 Enim. Street, Broken Arrow, 71552, OK",1,53,2020/3/24,186
+B44,"913-8036 Pellentesque Rd., Waterbury, 79794, CT",0,19,2019/5/10,175
+B45,"833-7963 Vestibulum Street, Rock Springs, 53515, WY",0,56,2019/9/5,156.7
+B46,"Ap #360-1399 Diam Avenue, Burlington, 47479, VT",1,41,2019/10/31,153.1
+B47,"990-3108 Tristique Avenue, Cambridge, 74801, MA",1,74,2019/10/2,198.6
+B48,"P.O. Box 631, 589 In Rd., Kaneohe, 29376, HI",0,24,2020/4/18,157
+B49,"229 Egestas Rd., Fort Worth, 80479, TX",1,65,2019/10/19,152.4
+B50,"P.O. Box 969, 7179 Ac St., Oklahoma City, 85171, OK",0,24,2020/4/25,151.1
