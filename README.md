@@ -6,7 +6,7 @@ Relational Model: [Relational Model](https://github.com/amber0725/DBMS2020/blob/
 
 ## 系統架構
  1. 系統功能：紀錄、產生記錄相關分析
- 2. 系統開發的程式語⾔：
+ 2. 系統開發的程式語⾔：<br>
       Front-End Layer : JavaScript<br>
       Application Layer : Express.js<br>
       Database Server : PostgreSQL
@@ -25,6 +25,6 @@ Relational Model: [Relational Model](https://github.com/amber0725/DBMS2020/blob/
      - 全台數據分析 :
          顯示目前資料中用戶患有疾病與健身成效的關係圖表
      - 一般用戶註冊 :
-         輸入 身分證字號、出生年月日、性別、地址
+         輸入 身分證字號、出生年月日、性別、地址<br>
      -健身機構註冊 :
          輸入 營業登記字號、健身機構名稱、地址、價格
