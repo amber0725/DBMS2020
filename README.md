@@ -46,35 +46,34 @@ Provide real data for versatile medical studies, e.g., analyse the correlation b
 chronic diseases and workout (muscular) performances.
 
  ### 系統功能分析
-1. Member works out in train houses.
-<br>
-2. Member can work out in different train houses.
-<br>
-3. Member eats more than one meals per day.
-<br>
-4. Member can workout more than once per day.
-<br>
-5. Body composition for a person must be no less than two records so that body
-composition change exists.
+ 1. Member works out in train houses.
+ <br>
+ 2. Member can work out in different train houses.
+ <br>
+ 3. Member eats more than one meals per day.
+ <br>
+ 4. Member can workout more than once per day.
+ <br>
+ 5. Body composition for a person must be no less than two records so that body composition change exists.
 
  ### 資料需求分析
-1. We store member’s personal ID, gender, age, height, address and entered day.
-<br>
-2. Every member is no less than 18 years old, so their heights remain the same.
-<br>
-3. We record the training place that people go to and also the fee.
-<br>
-4. We record every member’s daily meals with fat, carbon hydrate and protein.
-<br>
-5. We record every member’s training history including training parts, reps, sets, weight,
-and training place.
-<br>
-6. We record every member’s body composition including weight and body fat rate.
-<br>
-7. We record every member’s chronic diseases, blood sugar, lipid, blood pressure.
-<br>
-8. Member’s weight change and body fat rate change are recorded on the relationship
-of member and body composition.
+ 1. We store member’s personal ID, gender, age, height, address and entered day.
+ <br>
+ 2. Every member is no less than 18 years old, so their heights remain the same.
+ <br>
+ 3. We record the training place that people go to and also the fee.
+ <br>
+ 4. We record every member’s daily meals with fat, carbon hydrate and protein.
+ <br>
+ 5. We record every member’s training history including training parts, reps, sets, weight,
+ and training place.
+ <br>
+ 6. We record every member’s body composition including weight and body fat rate.
+ <br>
+ 7. We record every member’s chronic diseases, blood sugar, lipid, blood pressure.
+ <br>
+ 8. Member’s weight change and body fat rate change are recorded on the relationship
+ of member and body composition.
 
 ## 系統架構
  1. 系統功能：紀錄、產生記錄相關分析<br>
