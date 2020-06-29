@@ -99,3 +99,8 @@ chronic diseases and workout (muscular) performances.
          輸入 身分證字號、出生年月日、性別、地址<br>
      -健身機構註冊 :<br>
          輸入 營業登記字號、健身機構名稱、地址、價格<br>
+
+## 分工
+ 設計ER Model、Relational Model，系統設計，建模擬資料、資料庫，網頁設計: 呂淇
+ <
+ 設計ER Model、Relational Model，系統設計，建前後端連結、功能操作: 張晏瑄
