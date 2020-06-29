@@ -7,8 +7,8 @@ Relational Model: [Relational Model](https://github.com/amber0725/DBMS2020/blob/
 ## 系統架構
  1. 系統功能：紀錄、產生記錄相關分析
  2. 系統開發的程式語⾔：
-      Front-End Layer : Python
-      Application Layer : Flask
+      Front-End Layer : JavaScript<br>
+      Application Layer : Express.js<br>
       Database Server : PostgreSQL
  3. DBMS與工具：PostgreSQL , WebStorm
  4. 系統模組
