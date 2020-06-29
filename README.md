@@ -44,7 +44,8 @@ the most of financial resources of the fitness center.
 <br>
 Provide real data for versatile medical studies, e.g., analyse the correlation between
 chronic diseases and workout (muscular) performances.
-### 系統功能分析
+
+ ### 系統功能分析
 1. Member works out in train houses.
 <br>
 2. Member can work out in different train houses.
@@ -55,7 +56,8 @@ chronic diseases and workout (muscular) performances.
 <br>
 5. Body composition for a person must be no less than two records so that body
 composition change exists.
-### 資料需求分析
+
+ ### 資料需求分析
 1. We store member’s personal ID, gender, age, height, address and entered day.
 <br>
 2. Every member is no less than 18 years old, so their heights remain the same.
@@ -73,27 +75,28 @@ and training place.
 <br>
 8. Member’s weight change and body fat rate change are recorded on the relationship
 of member and body composition.
+
 ## 系統架構
- 1. 系統功能：紀錄、產生記錄相關分析
+ 1. 系統功能：紀錄、產生記錄相關分析<br>
  2. 系統開發的程式語⾔：<br>
       Front-End Layer : JavaScript<br>
       Application Layer : Express.js<br>
-      Database Server : PostgreSQL
- 3. DBMS與工具：PostgreSQL , WebStorm
- 4. 系統模組
-     - 首頁：
-        一般用戶：註冊/登入
-        健身機構用戶：註冊/登入
-     - 一般用戶登入後畫面：訓練紀錄/身體紀錄/飲食紀錄/全台數據分析
-     - 訓練紀錄畫面：選擇是否新增新紀錄後，顯示訓練歷史紀錄相關分析與圖表。
-     - 身體紀錄畫面：選擇是否新增新紀錄後，顯示身體歷史紀錄相關分析與圖表。
-     - 飲食紀錄畫面：選擇是否新增新紀錄後，顯示飲食歷史紀錄相關分析與圖表。
-     - 健身機構用戶登入後畫面：顧客紀錄/附近註冊同業
-     - 顧客紀錄畫面：顯示選擇日期區間的來店顧客紀錄，每個紀錄顧客訓練部位分層。
-     - 附近註冊同業畫面：顯示附近有哪些使用本服務的同業
-     - 全台數據分析 :
-         顯示目前資料中用戶患有疾病與健身成效的關係圖表
-     - 一般用戶註冊 :
+      Database Server : PostgreSQL<br>
+ 3. DBMS與工具：PostgreSQL , WebStorm<br>
+ 4. 系統模組<br>
+     - 首頁：<br>
+        一般用戶：註冊/登入<br>
+        健身機構用戶：註冊/登入<br>
+     - 一般用戶登入後畫面：訓練紀錄/身體紀錄/飲食紀錄/全台數據分析<br>
+     - 訓練紀錄畫面：選擇是否新增新紀錄後，顯示訓練歷史紀錄相關分析與圖表。<br>
+     - 身體紀錄畫面：選擇是否新增新紀錄後，顯示身體歷史紀錄相關分析與圖表。<br>
+     - 飲食紀錄畫面：選擇是否新增新紀錄後，顯示飲食歷史紀錄相關分析與圖表。<br>
+     - 健身機構用戶登入後畫面：顧客紀錄/附近註冊同業<br>
+     - 顧客紀錄畫面：顯示選擇日期區間的來店顧客紀錄，每個紀錄顧客訓練部位分層。<br>
+     - 附近註冊同業畫面：顯示附近有哪些使用本服務的同業<br>
+     - 全台數據分析 :<br>
+         顯示目前資料中用戶患有疾病與健身成效的關係圖表<br>
+     - 一般用戶註冊 :<br>
          輸入 身分證字號、出生年月日、性別、地址<br>
-     -健身機構註冊 :
-         輸入 營業登記字號、健身機構名稱、地址、價格
+     -健身機構註冊 :<br>
+         輸入 營業登記字號、健身機構名稱、地址、價格<br>
