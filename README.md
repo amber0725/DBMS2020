@@ -10,13 +10,13 @@ Working out has gradually become an indispensable role in modern lifestyle, indi
 people value their health more than ever. Beginning with the view of working out, we hope to
 be the one to make a progress on people’s way to fitness, by monitoring their active status
 when working out as well as the static body status in daily routine.
-<br>
+<br><br>
 But how exactly can we make this come true?
-<br>
+<br><br>
 With a personal health management database system that stores data to keep track of
 user’s training, diet, and medical history, users can gain insights from the personal data they
 input, such as some of the following examples:
-<br>
+
 - Workout Performance Evaluation
 <br>
 Ensure the efforts on diet and workout are on the right track toward specific fitness
@@ -47,7 +47,7 @@ chronic diseases and workout (muscular) performances.
 
  ### 系統功能分析
  1. Member works out in train houses.
- <br>
+ 
  2. Member can work out in different train houses.
  <br>
  3. Member eats more than one meals per day.
@@ -58,7 +58,7 @@ chronic diseases and workout (muscular) performances.
 
  ### 資料需求分析
  1. We store member’s personal ID, gender, age, height, address and entered day.
- <br>
+
  2. Every member is no less than 18 years old, so their heights remain the same.
  <br>
  3. We record the training place that people go to and also the fee.
