@@ -4,7 +4,7 @@
 ER Model: [ER Model](https://github.com/amber0725/DBMS2020/blob/master/ER%20Model.pdf)
 Relational Model: [Relational Model](https://github.com/amber0725/DBMS2020/blob/master/Relational%20Model.pdf)
 
-# # #系統架構
+## 系統架構
  1. 系統功能：紀錄、產生記錄相關分析
  2. 系統開發的程式語⾔：
       Front-End Layer : Python
