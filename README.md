@@ -1,7 +1,7 @@
 # DBMS2020
  資料庫系統期末專案
 # #我要種肌肉
-ER Model: [ER Model](https://github.com/amber0725/DBMS2020/blob/master/ER%20Model.pdf)
+ER Model: [ER Model](https://github.com/amber0725/DBMS2020/blob/master/ER%20Model.pdf)\<
 Relational Model: [Relational Model](https://github.com/amber0725/DBMS2020/blob/master/Relational%20Model.pdf)
 
 ## 系統架構
